@@ -47,3 +47,6 @@ The docker image was uploaded to AWS container registery. The docker image is pu
 (via AWS) at: public.ecr.aws/d4e8a7g0/mlops_sridiyer . The app was defined as a task under the
 framework of Fargate / Container Service and run.
 
+![](https://github.com/sridiyer/MLOps_classification/blob/master/img4.png)
+
+Figure 4. Docker image of the application in AWS Container Registry
