@@ -52,6 +52,10 @@ framework of Fargate / Container Service and run.
 Figure 4. Docker image of the application in AWS Container Registry (accessible on AWS
 at: public.ecr.aws/d4e8a7g0/mlops_sridiyer  )
 
+AWS container services organizes the execution of a container (app) as a task. There is
+only one task in this project. Related tasks are grouped into service. Services are run in
+a cluster.
+
 ![](https://github.com/sridiyer/MLOps_classification/blob/master/img5.png)
 
 Figure 5. Application running as a service under Fargate/ECS
