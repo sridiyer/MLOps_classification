@@ -26,6 +26,8 @@ api.py which is the main entry point.
 
 ![](https://github.com/sridiyer/MLOps_classification/blob/master/img1.png)]
 
+Figure 1. System deployed on a local system.
+
 <h5>Step 3. Containarized Deployment </h5>
 
 After validating that the model works as it should, Dockerfile was created to package the fully tested app
@@ -33,8 +35,12 @@ After validating that the model works as it should, Dockerfile was created to pa
 Details of the build are given in the Dockerfile.
 ![](https://github.com/sridiyer/MLOps_classification/blob/master/img2.png)
 
+Figure 2. System under local container deployment.
+
 ![](https://github.com/sridiyer/MLOps_classification/blob/master/img2.png)
-  
+
+Figure 3. Docker image listing showing local image, same tagged for use on container registries on AWS and GCP.
+
 <h5>Step 4. Cloud Service </h5>
 
 The docker image was uploaded to AWS container registery. The docker image is publically avialable
