@@ -58,4 +58,4 @@ a cluster.
 
 ![](https://github.com/sridiyer/MLOps_classification/blob/master/img5.png)
 
-Figure 5. Application running as a service under Fargate/ECS
+Figure 5. Application running as a service under Fargate/ECS. The task is also shown in the image.
