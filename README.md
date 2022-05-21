@@ -49,4 +49,5 @@ framework of Fargate / Container Service and run.
 
 ![](https://github.com/sridiyer/MLOps_classification/blob/master/img4.png)
 
-Figure 4. Docker image of the application in AWS Container Registry
+Figure 4. Docker image of the application in AWS Container Registry (accessible on AWS
+at: public.ecr.aws/d4e8a7g0/mlops_sridiyer  )
