@@ -24,11 +24,16 @@ FastAPI based access to the model including pydantic based validation of inputs 
 Dependency injection is also supported to utilize any future model in the system. Code is in the file
 api.py which is the main entry point.
 
+[[img1.png]]
+
 <h5>Step 3. Containarized Deployment </h5>
 
 After validating that the model works as it should, Dockerfile was created to package the fully tested app
 (including model artifacts). The dockerized version of the application was also tested on a local machine.
 Details of the build are given in the Dockerfile.
+[[img2.png]]
+
+[[img3.png]]
   
 <h5>Step 4. Cloud Service </h5>
 
