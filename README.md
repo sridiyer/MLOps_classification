@@ -37,7 +37,7 @@ Details of the build are given in the Dockerfile.
 
 Figure 2. System under local container deployment.
 
-![](https://github.com/sridiyer/MLOps_classification/blob/master/img2.png)
+![](https://github.com/sridiyer/MLOps_classification/blob/master/img3.png)
 
 Figure 3. Docker image listing showing local image, same tagged for use on container registries on AWS and GCP.
 
